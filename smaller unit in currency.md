@@ -1,9 +1,0 @@
-# What does it means for country to have smaller unit in their currency, such as cent in EUR, USD?
-
-Having smaller unit in a currency seems to be a bit redundant to foreigners. It feels like a pain in the ass when you have to calculate these decimal number when you are paying for your food. Especially when it comes to the United States, 15-25% extra to the entire bill is expected to serve as tips. Customers always have to calculate themself. For people not familiar with this culture, it's hard to come up with the right amount instantly. Not to mention calculating the decimal number, it would only add on the difficulty.
-
-However, those unit were created for a good reason. That is, to more precisely reflect the market value of the goods. We're familiar with the basic of Economics. The market value is decided by invisible hands. Both producers and consumers contribute to the final price. If the demand is high, but the supply is low, the price would go up. On the contrarary, if the demand is low, but the supply is high, then the price would go down.
-
-Let's say we have a coffee that has the market value of 2.5€. If we don't have the unit of "10, 20, 50" cent in EUR, how much will the merchant charge you? I think they will have to charge you 3€ instead of 2€. Because the market value is 2.5€, charging below would mean that they are losing money. These scenarios would happen in every aspects of our lives. Customers would end up paying more money than they should.
-
-Just a seemingly simple question as what unit we should have in our currency is actually a complicated economic and monetary issue. Both having too many redundant digits and not having enough digits could have significant impact to our economy.
